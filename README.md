@@ -236,4 +236,5 @@ Unit Testing has been done with the help of React Testing Library, Jest, Jestdom
 
 # Honour Code
 
-This demo project is solely done by me, Jayanta Samaddar. You can contact me on **[GitHub](https://www.github.com/jayantasamaddar)** for interesting projects to work on.
+This demo project is solely done by me, Mosaddik Ali Maruf. You can contact me on **[GitHub](https://www.github.com/malinjr07)** for interesting projects to work on.
+
